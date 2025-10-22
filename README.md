@@ -21,12 +21,4 @@ pnpm build
 pnpm start
 ```
 
-## Content
-The site pulls copy from the MyCMD README and highlights:
-- Features
-- Project structure
-- Installation and usage
-- Contributing and license
-
-## Deploy
-Any Node host or Vercel. Set the root to this directory.
+## Thank You

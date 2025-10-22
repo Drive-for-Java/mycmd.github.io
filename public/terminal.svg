@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" fill="none"><rect width="640" height="400" rx="16" fill="#111"/><rect x="0.5" y="0.5" width="639" height="399" rx="15.5" stroke="#2a2a2a"/><circle cx="24" cy="24" r="6" fill="#ff5f56"/><circle cx="44" cy="24" r="6" fill="#ffbd2e"/><circle cx="64" cy="24" r="6" fill="#27c93f"/><rect x="16" y="48" width="608" height="336" rx="10" fill="#0a0a0a"/><foreignObject x="24" y="56" width="592" height="320"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace; color: #e5e5e5; font-size: 14px; line-height: 22px; white-space: pre;">C:\Users\dev&gt; MyCMD
+MyCMD 1.0.0
+
+&gt; dir
+Directory of C:\Users\dev
+
+&gt; echo Hello World!
+Hello World!
+
+&gt; help
+Available commands: dir, cd, mkdir, rmdir, copy, del, type, cls, help, exit, version</div></foreignObject></svg>
